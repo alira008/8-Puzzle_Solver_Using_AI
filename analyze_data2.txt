@@ -1,0 +1,24 @@
+{'Total Nodes Expanded': 13, 'Max Nodes in Queue': 8, 'Depth': 2, 'Time taken': 0.0004201, 'Algorithm': 'Uniform algorithm'}
+{'Total Nodes Expanded': 0, 'Max Nodes in Queue': 0, 'Depth': 0, 'Time taken': 3.8e-06, 'Algorithm': 'Uniform algorithm'}
+{'Total Nodes Expanded': 59, 'Max Nodes in Queue': 28, 'Depth': 4, 'Time taken': 0.010478, 'Algorithm': 'Uniform algorithm'}
+{'Total Nodes Expanded': 0, 'Max Nodes in Queue': 0, 'Depth': 0, 'Time taken': 2.9e-06, 'Algorithm': 'Misplaced algorithm'}
+{'Total Nodes Expanded': 4, 'Max Nodes in Queue': 3, 'Depth': 2, 'Time taken': 0.0002041, 'Algorithm': 'Misplaced algorithm'}
+{'Total Nodes Expanded': 9, 'Max Nodes in Queue': 6, 'Depth': 4, 'Time taken': 0.0004468, 'Algorithm': 'Misplaced algorithm'}
+{'Total Nodes Expanded': 49, 'Max Nodes in Queue': 24, 'Depth': 8, 'Time taken': 0.0116689, 'Algorithm': 'Misplaced algorithm'}
+{'Total Nodes Expanded': 499, 'Max Nodes in Queue': 190, 'Depth': 8, 'Time taken': 0.0742331, 'Algorithm': 'Uniform algorithm'}
+{'Total Nodes Expanded': 0, 'Max Nodes in Queue': 0, 'Depth': 0, 'Time taken': 3.1e-06, 'Algorithm': 'Manhattan algorithm'}
+{'Total Nodes Expanded': 4, 'Max Nodes in Queue': 3, 'Depth': 2, 'Time taken': 0.0007069, 'Algorithm': 'Manhattan algorithm'}
+{'Total Nodes Expanded': 9, 'Max Nodes in Queue': 6, 'Depth': 4, 'Time taken': 0.0013168, 'Algorithm': 'Manhattan algorithm'}
+{'Total Nodes Expanded': 24, 'Max Nodes in Queue': 12, 'Depth': 8, 'Time taken': 0.005151, 'Algorithm': 'Manhattan algorithm'}
+{'Total Nodes Expanded': 66, 'Max Nodes in Queue': 30, 'Depth': 12, 'Time taken': 0.0239229, 'Algorithm': 'Manhattan algorithm'}
+{'Total Nodes Expanded': 241, 'Max Nodes in Queue': 95, 'Depth': 12, 'Time taken': 0.1478572, 'Algorithm': 'Misplaced algorithm'}
+{'Total Nodes Expanded': 412, 'Max Nodes in Queue': 157, 'Depth': 18, 'Time taken': 0.5892072, 'Algorithm': 'Manhattan algorithm'}
+{'Total Nodes Expanded': 3606, 'Max Nodes in Queue': 1280, 'Depth': 12, 'Time taken': 1.7866731, 'Algorithm': 'Uniform algorithm'}
+{'Total Nodes Expanded': 1219, 'Max Nodes in Queue': 458, 'Depth': 16, 'Time taken': 9.9941692, 'Algorithm': 'Misplaced algorithm'}
+{'Total Nodes Expanded': 20292, 'Max Nodes in Queue': 6584, 'Depth': 16, 'Time taken': 36.3042192, 'Algorithm': 'Uniform algorithm'}
+{'Total Nodes Expanded': 71779, 'Max Nodes in Queue': 17289, 'Depth': 20, 'Time taken': 393.7657619, 'Algorithm': 'Uniform algorithm'}
+{'Total Nodes Expanded': 152937, 'Max Nodes in Queue': 24048, 'Depth': 24, 'Time taken': 1407.691113, 'Algorithm': 'Uniform algorithm'}
+{'Total Nodes Expanded': 1164, 'Max Nodes in Queue': 433, 'Depth': 20, 'Time taken': 6.0277941, 'Algorithm': 'Manhattan algorithm'}
+{'Total Nodes Expanded': 4245, 'Max Nodes in Queue': 1552, 'Depth': 20, 'Time taken': 231.1755288, 'Algorithm': 'Misplaced algorithm'}
+{'Total Nodes Expanded': 7344, 'Max Nodes in Queue': 2534, 'Depth': 26, 'Time taken': 1467.811085, 'Algorithm': 'Manhattan algorithm'}
+{'Total Nodes Expanded': 8439, 'Max Nodes in Queue': 3071, 'Depth': 'Failure: not found', 'Time taken': 1800.1481638, 'Algorithm': 'Misplaced algorithm'}
